@@ -11,3 +11,5 @@ Social media blocker is a an extension which will not allow you to use social me
 - HTML
 - CSS
 - JavaScript
+
+I am going to change something in this readme for practice purpose
